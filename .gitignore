@@ -15,3 +15,11 @@ env/
 
 # csv files
 *.csv
+
+# Ignore GeoPandas files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
